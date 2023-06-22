@@ -1,0 +1,30 @@
+[
+  {
+    "name": "chatbot",
+    "path": "/chatbot",
+    "component": "C:\\\\Users\\\\charm\\\\OneDrive\\\\Desktop\\\\Carlo Things\\\\Codes\\\\nuxt2-tailwindcss\\\\pages\\\\chatbot.vue",
+    "chunkName": "pages/chatbot",
+    "_name": "_95eba018"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "C:\\\\Users\\\\charm\\\\OneDrive\\\\Desktop\\\\Carlo Things\\\\Codes\\\\nuxt2-tailwindcss\\\\pages\\\\login.vue",
+    "chunkName": "pages/login",
+    "_name": "_0be6fe2e"
+  },
+  {
+    "name": "signup",
+    "path": "/signup",
+    "component": "C:\\\\Users\\\\charm\\\\OneDrive\\\\Desktop\\\\Carlo Things\\\\Codes\\\\nuxt2-tailwindcss\\\\pages\\\\signup.vue",
+    "chunkName": "pages/signup",
+    "_name": "_855a96ba"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\charm\\\\OneDrive\\\\Desktop\\\\Carlo Things\\\\Codes\\\\nuxt2-tailwindcss\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_423f5b17"
+  }
+]

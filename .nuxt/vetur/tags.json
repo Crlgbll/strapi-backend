@@ -1,0 +1,8 @@
+{
+  "Navbar": {
+    "description": "Auto imported from components/navbar.vue"
+  },
+  "NavbarAuth": {
+    "description": "Auto imported from components/navbarAuth.vue"
+  }
+}
